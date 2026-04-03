@@ -12,18 +12,14 @@
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
-![Git](https://shields.io) 
 
   _**GitHub - apresentação de projetos**_
 
-![Linux](/image/Markdown-mark.svg) 
  
   _**Kali Linux - ferramentas de segurança**_
-
-![PacketTracer](https://shields.io)  
+  
 _**PacketTracer - criação de redes e simulação**_ 
 
-  ![Wireshark](https://shields.io)
 _**Wireshark - análise de tráfego de rede**_
 
 ---
